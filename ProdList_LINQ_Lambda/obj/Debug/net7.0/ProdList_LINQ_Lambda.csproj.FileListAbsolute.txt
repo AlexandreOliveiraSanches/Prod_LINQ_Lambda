@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\ProdList_LINQ_Lambda\ProdList_LINQ_Lambda\bin\Debug\net7.0\ProdList_LINQ_Lambda.exe
+C:\codigos\projetos C#\ProdList_LINQ_Lambda\ProdList_LINQ_Lambda\bin\Debug\net7.0\ProdList_LINQ_Lambda.deps.json
+C:\codigos\projetos C#\ProdList_LINQ_Lambda\ProdList_LINQ_Lambda\bin\Debug\net7.0\ProdList_LINQ_Lambda.runtimeconfig.json
+C:\codigos\projetos C#\ProdList_LINQ_Lambda\ProdList_LINQ_Lambda\bin\Debug\net7.0\ProdList_LINQ_Lambda.dll
+C:\codigos\projetos C#\ProdList_LINQ_Lambda\ProdList_LINQ_Lambda\bin\Debug\net7.0\ProdList_LINQ_Lambda.pdb
+C:\codigos\projetos C#\ProdList_LINQ_Lambda\ProdList_LINQ_Lambda\obj\Debug\net7.0\ProdList_LINQ_Lambda.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\ProdList_LINQ_Lambda\ProdList_LINQ_Lambda\obj\Debug\net7.0\ProdList_LINQ_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\ProdList_LINQ_Lambda\ProdList_LINQ_Lambda\obj\Debug\net7.0\ProdList_LINQ_Lambda.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\ProdList_LINQ_Lambda\ProdList_LINQ_Lambda\obj\Debug\net7.0\ProdList_LINQ_Lambda.AssemblyInfo.cs
+C:\codigos\projetos C#\ProdList_LINQ_Lambda\ProdList_LINQ_Lambda\obj\Debug\net7.0\ProdList_LINQ_Lambda.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\ProdList_LINQ_Lambda\ProdList_LINQ_Lambda\obj\Debug\net7.0\ProdList_LINQ_Lambda.dll
+C:\codigos\projetos C#\ProdList_LINQ_Lambda\ProdList_LINQ_Lambda\obj\Debug\net7.0\refint\ProdList_LINQ_Lambda.dll
+C:\codigos\projetos C#\ProdList_LINQ_Lambda\ProdList_LINQ_Lambda\obj\Debug\net7.0\ProdList_LINQ_Lambda.pdb
+C:\codigos\projetos C#\ProdList_LINQ_Lambda\ProdList_LINQ_Lambda\obj\Debug\net7.0\ProdList_LINQ_Lambda.genruntimeconfig.cache
+C:\codigos\projetos C#\ProdList_LINQ_Lambda\ProdList_LINQ_Lambda\obj\Debug\net7.0\ref\ProdList_LINQ_Lambda.dll
